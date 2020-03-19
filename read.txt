@@ -1,2 +1,2 @@
 one
-New Test
+Creating a new branch is quick & simple.
