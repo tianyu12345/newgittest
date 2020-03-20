@@ -1,4 +1,3 @@
 <?php
-echo 'Hello World';
-echo 'baidu';
+echo 'Hello World Git';
 ?>
