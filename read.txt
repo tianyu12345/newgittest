@@ -1,2 +1,1 @@
-10.14dev
-By Li
+Git is a free software ...
